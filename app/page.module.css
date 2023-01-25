@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+.main {
+  font-family: 'Roboto', sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.text_header {
+  font-weight: 300;
+  font-size: 2em;
+}
+
+.text_header_ru {
+  font-weight: 300;
+  font-size: 1.65em;
+}
+
+.text_desc {
+  margin-top: 1em;
+  font-weight: thin;
+  font-size: 1em;
+}
